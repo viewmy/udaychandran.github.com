@@ -180,7 +180,7 @@ a:focus, a:hover, a:active {
 
 #content-sidebar-wrap {
 	width: 960px;
-	margin: auto;
+	margin: 4px auto 0;
 	}
 
 #content {
